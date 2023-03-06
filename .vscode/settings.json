@@ -1,0 +1,9 @@
+{
+    "chatgpt.gpt3.apiKey": "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",
+    "chatgpt.authenticationType": "OpenAI Authentication",
+    "python.testing.pytestArgs": [
+        "__pycache__"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
